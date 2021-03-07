@@ -5,6 +5,7 @@ const btn = document.querySelector("button");
 const locaT = document.querySelector(".location");
 const wIcon = document.querySelector(".weather-icon")
 
+// events
 
 pForm.addEventListener("submit",(e)=>{
     e.preventDefault()
