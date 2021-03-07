@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  color: #1f441e;
+  font-weight: 800;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.links a {
+  text-decoration: none;
+  color: #f14668;
+  font-size: 1.1rem;
+  padding: 5px;
+}
+
+.input-data {
+  position: absolute;
+  margin: auto;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px;
+  margin: 5px;
+}
+
+.input-data input {
+  outline-color: rgb(0, 100, 100);
+  margin-right: 2px;
+}
